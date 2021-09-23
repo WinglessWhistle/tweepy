@@ -1,3 +1,5 @@
-To tweet you need to have tweepy installed (pip install tweepy)
+To tweet you need to have tweepy installed - https://s.virial.xyz/tweepyorg
 
-I took this from reddit https://www.reddit.com/r/ProgrammerHumor/comments/atlayx/how_to_tweet_from_twitter_for_samsung_smart/ 
+I took this from reddit - https://s.virial.xyz/tweepyreddit
+
+Looks like this in the end - https://s.virial.xyz/tweepyexample
